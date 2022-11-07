@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "firstName": "Grady",
+      "lastName": "Mason",
+      "email": "myzotyj@mailinator.com",
+      "mobile": "Esse molestiae ullam",
+      "salary": "Ut molestiae molesti"
+    },
+    {
+      "id": 4,
+      "firstName": "Ava",
+      "lastName": "Mcdowell",
+      "email": "viwufe@mailinator.com",
+      "mobile": "Deserunt dolor aut i",
+      "salary": "Enim laborum Maxime"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
